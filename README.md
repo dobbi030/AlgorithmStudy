@@ -3,7 +3,8 @@
 - 기간: 2022년 9월 1일 ~ 2022년 9월 30일
 - 정기 회의: 월, 목 오후 9시 온라인
 - 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges), 
-[백준](https://www.acmicpc.net/)
+[백준](https://www.acmicpc.net/), 
+[문제집](https://github.com/encrypted-def/basic-algo-lecture)
 
 __Commit Message 규칙__
 - [Programmers] 문제번호_문제명
