@@ -16,7 +16,15 @@
 
 
 ## 문제표
-주차 | 사이트 | 문제 번호 | 문제명 | 은선 | 민재 | 규영 | 지용 | 창민
-----|:----:|:-------:|:----:|:---:|:---:|:---:|:---:|:----
-1주차| 백준  |  2217   |[로프](https://www.acmicpc.net/problem/2217)|| :white_check_mark: ||
-2주차| 백준  |  1780   |[종이의 개수](https://www.acmicpc.net/problem/1780)|
+>:white_check_mark: : 맞은 문제    
+>:small_red_triangle: : 답을 보고 풀었거나 스터디 설명을 듣고 푼 문제     
+>:heavy_multiplication_x: : 시도했으나 풀지 못 한 문제     
+>안 푼 문제는 표시하지 않음.
+
+주차 |  D-day  | 사이트 | 문제 번호 | 문제명 | 은선 | 민재 | 규영 | 지용 | 창민
+----|:-------:|:----:|:-------:|:----:|:---:|:---:|:---:|:---:|:----
+1주차|`220902`|프로그래머스|1844|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|
+2주차|`220905`|백준|2217|[로프](https://www.acmicpc.net/problem/2217)|| :white_check_mark: ||
+2주차|`220908`|백준|1780|[종이의 개수](https://www.acmicpc.net/problem/1780)|
+3주차|`220915`|백준|1149|[RGB거리](https://www.acmicpc.net/problem/1149)|:small_red_triangle:|
+3주차|`220915`|백준|9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)|:heavy_multiplication_x:|
