@@ -27,4 +27,4 @@
 2주차|`220905`|백준|2217|[로프](https://www.acmicpc.net/problem/2217)|| :white_check_mark: ||
 2주차|`220908`|백준|1780|[종이의 개수](https://www.acmicpc.net/problem/1780)|| :white_check_mark: ||
 3주차|`220915`|백준|1149|[RGB거리](https://www.acmicpc.net/problem/1149)|:small_red_triangle:| :white_check_mark: ||
-3주차|`220915`|백준|9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)|:heavy_multiplication_x:| :white_check_mark: ||
+3주차|`220915`|백준|9935|[문자열 폭발](https://www.acmicpc.net/problem/9935)|:heavy_multiplication_x:| :white_check_mark: ||ㅁㄴㅇㅁㅇㄴ
