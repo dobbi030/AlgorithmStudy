@@ -6,3 +6,4 @@
 |22.09.05|종이의 갯수|백준|https://www.acmicpc.net/problem/1780| ✅ |22.09.08|
 |22.09.08|RGB 거리|백준|https://www.acmicpc.net/problem/1149| ✅ |22.09.14|
 |22.09.09|문자열 폭발|백준|https://www.acmicpc.net/problem/9935| ❌ ||
+|22.09.16|[1차] 뉴스 클러스터링|프로그래머스|https://school.programmers.co.kr/learn/courses/30/lessons/17677| ✅ |22.09.19|
