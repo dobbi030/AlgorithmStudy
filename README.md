@@ -18,7 +18,7 @@
 ## 문제표
 >:white_check_mark: : 맞은 문제
 >:small_red_triangle: : 답을 보고 풀었거나 스터디 설명을 듣고 푼 문제
->:heavy_multiplication_x: : 시도했으나 풀지 못 한 문제
+>:heavy_multiplication_x: : 시도했으나 풀지 못 한 문제    
 >안 푼 문제는 표시하지 않음.
 
 주차 |  D-day  | 사이트 | 문제 번호 | 문제명 | 은선 | 민재 | 규영 | 지용 | 창민
