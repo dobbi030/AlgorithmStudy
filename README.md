@@ -31,3 +31,4 @@
 4주차|`220919`|프로그래머스|17677|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|:white_check_mark:|:white_check_mark:|:white_check_mark:|| :white_check_mark: |
 4주차(선택)|`220919`|프로그래머스|64063|[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)| |:small_red_triangle:| :heavy_multiplication_x: | |
 5주차|`220922`|백준|1463|[1로 만들기](https://www.acmicpc.net/problem/1463)|<!--은선-->|:white_check_mark:|:white_check_mark:|:white_check_mark:|:small_red_triangle:|
+6주차|`220929`|백준|14501|[퇴사](https://www.acmicpc.net/problem/14501)|<!--은선-->|<!--민재-->|<!--규영-->|:white_check_mark:|<!--창민-->|
