@@ -34,3 +34,4 @@
 | 4주차(선택) | `220919` | 프로그래머스 |   64063   |  [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)   |                          | :small_red_triangle: | :heavy_multiplication_x: |                    |
 | 5주차       | `220922` |     백준     |   1463    |                 [1로 만들기](https://www.acmicpc.net/problem/1463)                 |       <!--은선-->        |  :white_check_mark:  |    :white_check_mark:    | :white_check_mark: | :small_red_triangle:     |
 | 6주차       | `220929` |     백준     |   14501   |                   [퇴사](https://www.acmicpc.net/problem/14501)                    |    :white_check_mark:    | :small_red_triangle: | :small_red_triangle: | :white_check_mark: | :heavy_multiplication_x: |
+7주차|`221006`|백준|1509|[팰린드롬 분할](https://www.acmicpc.net/problem/1509)|<!--은선-->|<!--민재-->|<!--규영-->|:white_check_mark:|<!--창민-->|
