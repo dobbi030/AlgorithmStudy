@@ -11,3 +11,6 @@
 |22.09.27|퇴사|백준|https://www.acmicpc.net/problem/14501| ✅ |22.09.30|
 |22.09.29|팰린드롬수|백준|https://www.acmicpc.net/problem/1259| ✅ |22.10.05|
 |22.09.29|팰린드롬 분할|백준|https://www.acmicpc.net/problem/1509| ❌ |-|
+|22.10.07|고속의 무작위 숫자 탐색|백준|https://www.acmicpc.net/problem/25689| ✅ |22.10.11|
+|22.10.07|프로젝트 스케줄링|백준|https://www.acmicpc.net/problem/14907|||
+|22.10.10|내리막 길|백준|https://www.acmicpc.net/problem/1520|||
