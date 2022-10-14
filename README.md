@@ -39,5 +39,5 @@
 | 8주차       | `221013` | 백준 | 25689 | [고속의 무작위 숫자 탐색](https://www.acmicpc.net/problem/25689) | <!--은선--> | <!--민재--> | :white_check_mark: | :white_check_mark: | <!--창민--> |
 | 8주차       | `221013` | 백준 | 14907 | [프로젝트 스케줄링](https://www.acmicpc.net/problem/14907) | <!--은선--> | <!--민재--> | :heavy_multiplication_x: | :white_check_mark: | <!--창민--> |
 | 8주차       | `221013` | 백준 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | <!--은선--> | :white_check_mark: | :small_red_triangle: | :white_check_mark: | <!--창민--> |
-| 9주차       | `221017` | 백준 | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | <!--은선--> | <!--민재--> | <!--규영--> | :white_check_mark: | <!--창민--> |
+| 9주차       | `221017` | 백준 | 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | <!--은선--> | <!--민재--> | <!--규영--> | :white_check_mark: | :white_check_mark: |
 | 9주차       | `221017` | 백준 | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | <!--은선--> | <!--민재--> | <!--규영--> | :white_check_mark: | <!--창민--> |
